@@ -48,8 +48,8 @@ Here are some ideas to get you started:
 <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Udiptamahapatra&theme=github_dark" alt="Udiptamahapatra" />
  </p>
  <p align="center">
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udiptamahapatra&theme=github_dark" alt="rak3xh" />
-<img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udiptamahapatra&theme=github_dark&utcOffset=8" alt="rak3xh" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Udiptamahapatra&theme=github_dark" alt="Udiptamahapatra" />
+<img  src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Udiptamahapatra&theme=github_dark&utcOffset=8" alt="Udiptamahapatra" />
  </p>
 
  
@@ -62,7 +62,9 @@ Here are some ideas to get you started:
 ****
 
 
-<p align="center"><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk4bGF6cGd1d2h2d3U4MWV5eTR0YTV4OWhhZWZzbm0xems2NXAxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QeRhMjNZrsMWpBsr57/giphy.gif" height="140px" width="190px"></p>
+
+
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=Udiptamahapatra&theme=highcontrast" alt="Udiptamahapatra" /></p>
 
 
 
