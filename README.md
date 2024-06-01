@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="github-headder-image(1).png" alt="Udiptamahapatra" /></p>
+<p align="center">
 
 <p align="center">
 <a href="https://www.linkedin.com/in/udipta-mahapatra-50044a1b1" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Udiptamahapatra"  /></a>
