@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h3 align="center"> Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> its Udipta ,<br> Skilled in  Data Analytics || Python || SQL || ML</h3>
+  <h3 align="center"> Skilled in  Data Analytics || Python || SQL || ML</h3>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
