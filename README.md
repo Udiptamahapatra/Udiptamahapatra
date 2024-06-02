@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><img src="github-header-image (2).png" alt="Udiptamahapatra" /></p>
+<p align="center"><img src="github-header-image (3).png" alt="Udiptamahapatra" /></p>
 <p align="center">
 
 <p align="center">
